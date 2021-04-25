@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BOS_3</string>
+    <string name="send">SEND</string>
+    <string name="please_enter_your_message">Please enter your message</string>
+    <string name="waiting_for_a_buddy_to_connect">Waiting for your buddy to connect...</string>
+    <string name="close">close</string>
+    <string name="close_connection">close connection</string>
+</resources>
